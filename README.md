@@ -3,6 +3,6 @@ lab-5-KamronBegmatov created by GitHub Classroom
 
 # Student ID: u1610103
 
-# Name: Kamronbeg Begmatov
+# Name: Kamronbek Begmatov
 
 # Section: 001
